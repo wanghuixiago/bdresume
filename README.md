@@ -1,2 +1,2 @@
 # bdresume
-[demo](https://wanghuixiago.github.io/bdresume/resume.html
+[demo](https://wanghuixiago/bdresume/resume.html
